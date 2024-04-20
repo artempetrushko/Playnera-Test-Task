@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clothes Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b3cdcd799c2091f438909ff4eab41243, type: 3}
+    - {fileID: 2800000, guid: 0a74f2a5c8e8c2e4cb1297ed29d337ec, type: 3}
+    - {fileID: 2800000, guid: 9ac7c4782b9d00042aceab440b9ed94e, type: 3}
+    - {fileID: 2800000, guid: 6779cdde715fdf648bdb7a2b971d0c03, type: 3}
+    - {fileID: 2800000, guid: a86ee97f0d735a549b0ae23559118434, type: 3}
+    totalSpriteSurfaceArea: 81920
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0a74f2a5c8e8c2e4cb1297ed29d337ec, type: 3}
+  - {fileID: 21300000, guid: 9ac7c4782b9d00042aceab440b9ed94e, type: 3}
+  - {fileID: 21300000, guid: b3cdcd799c2091f438909ff4eab41243, type: 3}
+  - {fileID: 21300000, guid: 6779cdde715fdf648bdb7a2b971d0c03, type: 3}
+  - {fileID: 21300000, guid: a86ee97f0d735a549b0ae23559118434, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - face
+  - hair
+  - blouse
+  - shoes
+  - stockings
+  m_RenderDataMap: {}
+  m_Tag: Clothes Icons
+  m_IsVariant: 0
